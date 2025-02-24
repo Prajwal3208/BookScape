@@ -19,6 +19,8 @@ BookScape is a **MERN stack-based online bookstore** that provides a seamless bo
 - **Version Control**: Git & GitHub
 
 ## 📸 Preview
+![Screenshot 2025-02-24 172357](https://github.com/user-attachments/assets/a1228207-5f62-482f-b6d4-660c0eca8d80)
+
 
 
 
